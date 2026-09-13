@@ -1,11 +1,10 @@
 {
   "name": "badger-me",
   "bin": {
-    "practice": "./dist/index.js"
+    "be-friends": "./dist/be-friends.js"
   },
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "tsc --w"
   },
